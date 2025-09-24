@@ -12,6 +12,7 @@ body {
     align-items: center;
     font-family: Hanken Grotesk;
     background: lightblue;
+    height: 100vh;
 }
 
 p {
@@ -46,7 +47,6 @@ button:hover {
     border-radius: 3rem;
     display: flex;
     justify-content: center;
-    margin-top: 18rem;
     max-width: 100%;
 }
 
